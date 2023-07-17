@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Felipe 🧑🏻‍💻 soy un Ing. de Sistemas especializado en Diseño Web y programación Front-End 🛠️, con experiencia en la creación de experiencias de usuario atractivas y efectivas.</p>
+<p align="left">Mi nombre es Felipe 🧑🏻‍💻 soy un Ing. de Sistemas especializado en Diseño Web y programación Front-End 🛠️, con conocimiento en desarrollo de experiencia de usuario atractiva y efectiva.</p>
 
 ###
 
